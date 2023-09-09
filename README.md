@@ -31,7 +31,7 @@ as I continue to learn more and more about the limitless capabilities of computi
 
 ## Contact 📧
 - Personal Email: mailto:BrawlingBunny123@gmail.com
-- School Email: mailTo:jaoshea3@ncsu.edu
+- School Email: mailto:jaoshea3@ncsu.edu
 - LinkedIn: https://www.linkedin.com/in/johnny-o-shea/
 
 ## Interest Outside Code 🤼 
