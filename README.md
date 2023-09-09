@@ -1,4 +1,5 @@
-##**_JOHNNY O'SHEA_**
+**_JOHNNY O'SHEA_**
+
 👋 Hi, I’m @Johnny-OShea. I am a passionate Computer Science student at NC State University. I enjoy all things coding related
 spanning from analyzing data based to creating intricate graphical user interfaces. I am motivated by curiosity and excitement
 as I continue to learn more and more about the limitless capabilities of computing.
