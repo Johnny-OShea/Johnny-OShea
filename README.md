@@ -12,7 +12,7 @@ as I continue to learn more and more about the limitless capabilities of computi
    Designing user-friendly and visually appealing software interfaces is a creative outlet of mine that I can spend hours on end perfecting.
 
 ## Notable Projects 
--   Project 1: [NCProtectedAnimalsCatalog] () 🐟
+-   Project 1: [NCProtectedAnimalsCatalog] (https://github.com/Johnny-OShea/NCProtectedAnimalCatalog) 🐟
     * A small catalog of all the protected animals in North Carolina 🦅  
     * Contains information about all the animals including fun facts, red list status, a picture, etc. 🐦
     * Built in search functionality and custom created GUI that interacts with all classes and methods. 🐢
